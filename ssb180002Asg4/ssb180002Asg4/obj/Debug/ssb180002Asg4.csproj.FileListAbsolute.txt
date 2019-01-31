@@ -1,0 +1,10 @@
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.Form1.resources
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.Properties.Resources.resources
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.csproj.GenerateResource.cache
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.csproj.CoreCompileInputs.cache
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\bin\Debug\ssb180002Asg4.exe.config
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\bin\Debug\ssb180002Asg4.exe
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\bin\Debug\ssb180002Asg4.pdb
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.exe
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.pdb
+C:\Users\shivani.DESKTOP-6VRLKJF\Desktop\ssb180002Asg4\ssb180002Asg4\obj\Debug\ssb180002Asg4.csprojAssemblyReference.cache
